@@ -38,14 +38,13 @@ A list of the awesome Carbon language libraries and tools. See
 Some notable Carbon libraries.
 
 
-- [Library-1](link) - library-1.
-- [Library-2](link) - library-2.
+- [Library-1](https://github.com/carbon-language/carbon-lang) - library-1.
 
 ## Tools
 
 Some developer tools for Carbon.
 
-- [tool-1](link) - tool-1.
+- [tool-1](https://github.com/carbon-language/carbon-lang) - tool-1.
 
 <!-- END CONTENT -->
 
@@ -54,7 +53,7 @@ Some developer tools for Carbon.
 
 Frameworks that are built on top of the Carbon language.
 
-- [Frameowrk-1](link) - framework-1.
+- [Frameowrk-1](https://github.com/carbon-language/carbon-lang) - framework-1.
 
 
 ## Follow
