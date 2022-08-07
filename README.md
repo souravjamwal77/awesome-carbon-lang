@@ -27,21 +27,35 @@ A list of the awesome Carbon language libraries and tools. See
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Frameworks](#frameworks)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Libraries
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+Some notable Carbon libraries.
 
-## Section 1
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Library-1](link) - library-1.
+- [Library-2](link) - library-2.
+
+## Tools
+
+Some developer tools for Carbon.
+
+- [tool-1](link) - tool-1.
 
 <!-- END CONTENT -->
+
+
+## Frameworks
+
+Frameworks that are built on top of the Carbon language.
+
+- [Frameowrk-1](link) - framework-1.
+
 
 ## Follow
 
