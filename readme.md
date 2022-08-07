@@ -25,11 +25,15 @@ A list of the awesome Carbon language libraries and tools. See
 
 <!-- TOC -->
 
+
 ## Contents
 
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Frameworks](#frameworks)
+- [Follow](#follow)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -38,13 +42,13 @@ A list of the awesome Carbon language libraries and tools. See
 Some notable Carbon libraries.
 
 
-- [Library-1](https://github.com/carbon-language/carbon-lang) - library-1.
+- [Library-1](https://github.com/carbon-language/carbon-lang) - Library-1.
 
 ## Tools
 
 Some developer tools for Carbon.
 
-- [tool-1](https://github.com/carbon-language/carbon-lang) - tool-1.
+- [tool-1](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/project/contribution_tools.md#main-tools) - Tool-1.
 
 <!-- END CONTENT -->
 
@@ -53,14 +57,15 @@ Some developer tools for Carbon.
 
 Frameworks that are built on top of the Carbon language.
 
-- [Frameowrk-1](https://github.com/carbon-language/carbon-lang) - framework-1.
+- [Frameowrk-1](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/project/contribution_tools.md#optional-tools) - Framework-1.
 
 
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
+
+
 
 ## Contributing
 
