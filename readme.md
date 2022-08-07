@@ -19,7 +19,6 @@ Awesome Carbon language list.
 <!-- description -->
 
 A list of the awesome Carbon language libraries and tools. See
-[carbon-lang](https://github.com/carbon-language/carbon-lang) for the language.
 
 </div>
 
@@ -32,8 +31,6 @@ A list of the awesome Carbon language libraries and tools. See
 - [Tools](#tools)
 - [Frameworks](#frameworks)
 - [Follow](#follow)
-- [Contributing](#contributing)
-- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
