@@ -1,3 +1,5 @@
+<!--lint disable awesome-git-repo-age-->
+<!--lint disable double-link-->
 <div align="center">
 
 <!-- title -->
@@ -12,42 +14,57 @@ Awesome Carbon language list.
 
 <!-- image -->
 
-<a href="https://github.com/carbon-language/carbon-lang" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/Carbon_(programming_language)" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" />
 </a>
 
 <!-- description -->
 
 A list of the awesome Carbon language libraries and tools. See
-[carbon-lang](https://github.com/carbon-language/carbon-lang) for the language.
 
 </div>
 
 <!-- TOC -->
 
+
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Frameworks](#frameworks)
 - [Follow](#follow)
 
 <!-- CONTENT -->
 
-## Featured (new releases)
+## Libraries
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+Some notable Carbon libraries.
 
-## Section 1
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Library-1](https://github.com/carbon-language/carbon-lang) - Library-1.
+
+## Tools
+
+Some developer tools for Carbon.
+
+- [tool-1](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/project/contribution_tools.md#main-tools) - Tool-1.
 
 <!-- END CONTENT -->
 
+
+## Frameworks
+
+Frameworks that are built on top of the Carbon language.
+
+- [Frameowrk-1](https://github.com/carbon-language/carbon-lang/blob/trunk/docs/project/contribution_tools.md#optional-tools) - Framework-1.
+
+
 ## Follow
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 Who else should we be following!?
+
+
 
 ## Contributing
 
