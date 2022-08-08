@@ -14,7 +14,7 @@ Awesome Carbon language list.
 
 <!-- image -->
 
-<a href="https://github.com/carbon-language/carbon-lang" target="_blank" rel="noopener noreferrer">
+<a href="https://en.wikipedia.org/wiki/Carbon_(programming_language)" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Carbon_logo.png" />
 </a>
 
